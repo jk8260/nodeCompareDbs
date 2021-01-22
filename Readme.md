@@ -7,7 +7,7 @@ This app was developed on WSL2 but should run on any node platform.
 
 - both supplied docker images are running and their ports on localhost are 5432 & 5433
 - counts will display in the console
-- missing, mismatch and added datasets are stored in data/ as json files
+- missing, mismatch and added datasets are stored in output/ as json files
 
 ## Installation
 
