@@ -1,0 +1,9 @@
+
+docker start bec042099c0e
+docker stop bec042099c0e
+docker exec -it bec042099c0e psql -U new
+
+
+docker start afa8ff283d74
+docker stop afa8ff283d74
+docker exec -it afa8ff283d74 psql -U old
