@@ -10,9 +10,9 @@ This app was developed on WSL2 but should run on any node platform.
 - missing, mismatch and added datasets are stored in output/ as json files
 
 ## Installation
-On the instructions below I reference the WSL2 bash prommt,
-this app will run on any platform that runs node.js and npm 
-please feel free to joyride
+The instructions below reference the WSL2 bash prommt,
+this app will run on any platform that runs node.js and npm will.
+Please feel free to joyride
 
 Use WSL2 bash prompt and npm to restore the packages
 
