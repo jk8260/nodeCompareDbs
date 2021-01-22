@@ -1,5 +1,5 @@
 const { Client } = require('pg');
-var fs = require('fs'); 
+const fs = require('fs'); 
 const { stringify } = require('querystring');
 
 // Start function
